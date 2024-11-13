@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/3977891868_4237102383_223132457.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_1535933337_1119171619.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_643266289_1245809770.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_3859683129_4116122544.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_2360517044_2322143295.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_1486492112_1360240991.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_2801187965_3212713438.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_2819910269_3941382328.mp4'
+file 'file:/Users/kirkmanamos/GitHub/Precalculus/media/videos/Rational/1080p60/partial_movie_files/RationalFunctionScene/2852726489_2899570619_1830904965.mp4'
